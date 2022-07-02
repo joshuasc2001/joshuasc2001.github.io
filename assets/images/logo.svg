@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 200 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-15.5084,-11.5802)">
+        <text x="18.272px" y="31.58px" style="font-family:'MAXWELLBOLD', 'MAXWELL BOLD';font-size:30px;fill:url(#_Linear1);">Joshua Conneely</text>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(194.473,0,-0,391.969,18.2716,22.0734)"><stop offset="0" style="stop-color:rgb(225,66,104);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,159,28);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,48 @@
+.footer-container {
+    padding: 2rem;
+    background-color: $dark;
+    z-index: -1;
+}
+
+.footer-social {
+    padding: 1rem;
+}
+
+.footer-social ul {
+    display: flex;
+    justify-content: space-around;
+    max-width: 200px;
+    margin: 0 auto;
+
+
+    i {
+        font-size: 2rem;
+        color: $secondary;
+
+    }
+}
+
+.footer-text{
+    padding: 1rem;
+    text-align: center;
+    p{
+        font-size: 1.2rem;
+        color: $secondary;
+    }
+
+    a{
+        color: $main;
+        text-decoration: none;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+}
+
+.footer-logo{
+    max-width: 400px;
+    margin: 0 auto;
+    img{
+        width: 100%;
+    }
+}
